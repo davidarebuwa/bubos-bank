@@ -1,0 +1,18 @@
+#contact-info {
+  padding-top: 90px;
+}
+
+.contact-info-block {
+  border: 1px solid #eee;
+  padding: 40px 20px;
+  border-radius: 5px;
+}
+.contact-info-block h4 {
+  margin-bottom: 0px;
+}
+.contact-info-block i {
+  font-size: 40px;
+  margin-bottom: 20px;
+  display: block;
+  color: #21c87a;
+}

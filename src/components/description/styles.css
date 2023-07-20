@@ -1,0 +1,123 @@
+.split-cover-section {
+    width: auto;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.split-cover-section-left {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.split-cover-section-right {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.split-cover-section-right-content {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.split-cover-image-left {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content-title {
+    display: flex;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+    align-self: flex-start;
+    margin-top: 6%;
+    margin-left: 35px;
+}
+
+
+.content-description {
+    display: flex;
+    margin-top: 16px;
+    font-size: 14px;
+    text-align: left;
+    line-height: 24px;
+    margin-left: 35px;
+    margin-right: 10px;
+    color: #fff;
+}
+
+.content-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+    margin-left: 35px;
+    padding: 8px;
+}
+
+.content-button button {
+    width: 250px;
+    height: 50px;
+    color: #fff;
+    background-color: #0d6efd;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: 550;
+    cursor: pointer;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 768px) {
+  .split-cover-section {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .split-cover-section-left,
+  .split-cover-section-right {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .content-title {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+
+  .content-description {
+    margin-top: 8px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .content-button {
+    margin-top: 8px;
+    margin-left: 5%;
+    padding: 8px;
+  }
+
+  .content-button button {
+    width: 200px;
+    height: 40px;
+    font-size: 1rem;
+  }
+}

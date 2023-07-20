@@ -1,0 +1,74 @@
+.services-body {
+  margin-top: 60px;
+}
+#services-ruba {
+  position: relative;
+  background-color:   #111;
+  background-size: cover;
+}
+#services-ruba:before {
+  position: absolute;
+  content: "";
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#services-2 {
+  position: relative;
+  background-color:   #111;
+  background-size: cover;
+}
+#services-2:before {
+  position: absolute;
+  content: "";
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background-color:  rgba(2, 2, 2, 0.25);;
+}
+
+.web-service-block {
+  text-align: center;
+  padding: 35px 25px;
+  transition: 0.3s;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  margin-bottom: 10px;
+}
+.web-service-block i {
+  font-size: 50px;
+  margin-bottom: 30px;
+  display: block;
+  color: #fff;
+}
+.web-service-block h3 {
+  color: #fff;
+  transition: 0.3s;
+}
+.web-service-block p {
+  color: #eee;
+  margin-top: 15px;
+  transition: 0.3s;
+}
+.web-service-block:hover {
+  background: #fff;
+  border-color: transparent;
+}
+.web-service-block:hover i {
+  color: #21c87a;
+}
+.web-service-block:hover h3 {
+  color: #111;
+}
+.web-service-block:hover p {
+  color: #111;
+}
+
+.service-img {
+  margin-bottom: -200px;
+  border: 10px solid #fff;
+  z-index: 9999;
+}

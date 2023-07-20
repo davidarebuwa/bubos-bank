@@ -1,0 +1,36 @@
+.contact-form-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-form .row {
+  justify-content: center;
+}
+
+.contact-form .form-group {
+  text-align: left;
+}
+
+.contact-form .form-group .h6 {
+  text-align: left;
+}
+
+.contact-form .form-group .input-group {
+  justify-content: center;
+}
+
+.contact-form textarea {
+  resize: vertical;
+}
+
+.contact-form input[type="submit"] {
+  margin-top: 16px;
+}
