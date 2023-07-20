@@ -21,7 +21,7 @@
 .page-contact {
   position: relative;
   padding: 180px 0px;
-  background: url("../../images/bg-ruba.jpg") fixed 50% 50% no-repeat;
+  background: url("../../images/bg-ruba.webp") fixed 50% 50% no-repeat;
   background-size: cover;
   z-index: 2;
 }
