@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bubos-bank-site/static/css/main.fe6b2b4d.css",
-    "main.js": "/bubos-bank-site/static/js/main.35abbbaa.js",
+    "main.js": "/bubos-bank-site/static/js/main.cf08e6c2.js",
     "static/js/787.86350eac.chunk.js": "/bubos-bank-site/static/js/787.86350eac.chunk.js",
     "static/media/section-alt1.webp": "/bubos-bank-site/static/media/section-alt1.bfe18e91b43aab17bcb4.webp",
     "static/media/section-3.webp": "/bubos-bank-site/static/media/section-3.1037281b5718d10a6d6a.webp",
@@ -15,11 +15,11 @@
     "static/media/bubos-bank-logo.svg": "/bubos-bank-site/static/media/bubos-bank-logo.5aeb2d11a876b170abb68fad4ee15c11.svg",
     "index.html": "/bubos-bank-site/index.html",
     "main.fe6b2b4d.css.map": "/bubos-bank-site/static/css/main.fe6b2b4d.css.map",
-    "main.35abbbaa.js.map": "/bubos-bank-site/static/js/main.35abbbaa.js.map",
+    "main.cf08e6c2.js.map": "/bubos-bank-site/static/js/main.cf08e6c2.js.map",
     "787.86350eac.chunk.js.map": "/bubos-bank-site/static/js/787.86350eac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe6b2b4d.css",
-    "static/js/main.35abbbaa.js"
+    "static/js/main.cf08e6c2.js"
   ]
 }
