@@ -1,7 +1,7 @@
 {
   "name": "bubos-bank-site",
   "version": "0.1.0",
-  "homepage": "https://www.bubosbank.com/",
+  "homepage": "https://bubosbank.com",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6 .4.0",
@@ -18,7 +18,7 @@
     "react-script-hook": "^1.7.2",
     "react-scripts": "5.0.1",
     "react-ts-tradingview-widgets": "^1.0.14",
-    "sass": "^1.63.4",
+    "sass": "^1.64.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
