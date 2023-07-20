@@ -9,7 +9,9 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter
+        basename="/bubos-bank-site"
+      >
         <div>
           <Routes>
             <Route path="/" element={<Home />} />

@@ -31,19 +31,20 @@ const symbols = {
 };
 
 function TradingView() {
- useEffect(() => {
-   const script = document.createElement("script");
-   script.src =
-     "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
-   script.async = true;
-   script.innerHTML = JSON.stringify(symbols);
-   const container = document.getElementsByClassName(
-     "tradingview-widget-container__widget"
-   )[0];
-   if (container.childNodes.length === 0) {
-     container.appendChild(script);
-   }
- }, [symbols]);
+  useEffect(() => {
+    const script = document.createElement("script");
+    script.src =
+      "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
+    script.async = true;
+    script.innerHTML = JSON.stringify(symbols);
+    const container = document.getElementsByClassName(
+      "tradingview-widget-container__widget"
+    )[0];
+    if (container.childNodes.length === 0) {
+      container.appendChild(script);
+    }
+    // eslint-disable-next-line
+  }, [symbols]);
 
   return (
     <div className="trading-view-body container mt-5">
