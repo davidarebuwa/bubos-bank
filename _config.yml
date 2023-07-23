@@ -1,0 +1,4 @@
+exclude:
+  - vendor/bundle/
+  - node_modules/
+  - assets/css/
