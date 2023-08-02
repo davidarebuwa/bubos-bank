@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bubos-bank-site/build/static/css/main.9d4270bd.css",
-    "main.js": "/bubos-bank-site/build/static/js/main.5feafed1.js",
-    "static/js/787.86350eac.chunk.js": "/bubos-bank-site/build/static/js/787.86350eac.chunk.js",
-    "static/media/section-alt1.webp": "/bubos-bank-site/build/static/media/section-alt1.bfe18e91b43aab17bcb4.webp",
-    "static/media/section-3.webp": "/bubos-bank-site/build/static/media/section-3.1037281b5718d10a6d6a.webp",
-    "static/media/bg-ruba.webp": "/bubos-bank-site/build/static/media/bg-ruba.bfa3f21d77307be50148.webp",
-    "static/media/rbecoin.png": "/bubos-bank-site/build/static/media/rbecoin.a54e33291d1ff398289e.png",
-    "static/media/section-2.webp": "/bubos-bank-site/build/static/media/section-2.23b4bfd318cb42b5f1ef.webp",
-    "static/media/blog.jpg": "/bubos-bank-site/build/static/media/blog.6e6ebfa54b0960fa3a28.jpg",
-    "static/media/Bank.png": "/bubos-bank-site/build/static/media/Bank.d816ffaf6f11fcb08600.png",
-    "static/media/rbecoin.webp": "/bubos-bank-site/build/static/media/rbecoin.54a518beac5c22a71775.webp",
-    "static/media/coins.webp": "/bubos-bank-site/build/static/media/coins.83a8b720b8904aaa5908.webp",
-    "static/media/bubos-bank-logo.svg": "/bubos-bank-site/build/static/media/bubos-bank-logo.5aeb2d11a876b170abb68fad4ee15c11.svg",
-    "index.html": "/bubos-bank-site/build/index.html",
-    "main.9d4270bd.css.map": "/bubos-bank-site/build/static/css/main.9d4270bd.css.map",
-    "main.5feafed1.js.map": "/bubos-bank-site/build/static/js/main.5feafed1.js.map",
-    "787.86350eac.chunk.js.map": "/bubos-bank-site/build/static/js/787.86350eac.chunk.js.map"
+    "main.css": "/bubos-bank-site/static/css/main.fe6b2b4d.css",
+    "main.js": "/bubos-bank-site/static/js/main.35abbbaa.js",
+    "static/js/787.86350eac.chunk.js": "/bubos-bank-site/static/js/787.86350eac.chunk.js",
+    "static/media/section-alt1.webp": "/bubos-bank-site/static/media/section-alt1.bfe18e91b43aab17bcb4.webp",
+    "static/media/section-3.webp": "/bubos-bank-site/static/media/section-3.1037281b5718d10a6d6a.webp",
+    "static/media/bg-ruba.webp": "/bubos-bank-site/static/media/bg-ruba.bfa3f21d77307be50148.webp",
+    "static/media/rbecoin.png": "/bubos-bank-site/static/media/rbecoin.a54e33291d1ff398289e.png",
+    "static/media/section-2.webp": "/bubos-bank-site/static/media/section-2.23b4bfd318cb42b5f1ef.webp",
+    "static/media/blog.jpg": "/bubos-bank-site/static/media/blog.6e6ebfa54b0960fa3a28.jpg",
+    "static/media/Bank.png": "/bubos-bank-site/static/media/Bank.d816ffaf6f11fcb08600.png",
+    "static/media/rbecoin.webp": "/bubos-bank-site/static/media/rbecoin.54a518beac5c22a71775.webp",
+    "static/media/coins.webp": "/bubos-bank-site/static/media/coins.83a8b720b8904aaa5908.webp",
+    "static/media/bubos-bank-logo.svg": "/bubos-bank-site/static/media/bubos-bank-logo.5aeb2d11a876b170abb68fad4ee15c11.svg",
+    "index.html": "/bubos-bank-site/index.html",
+    "main.fe6b2b4d.css.map": "/bubos-bank-site/static/css/main.fe6b2b4d.css.map",
+    "main.35abbbaa.js.map": "/bubos-bank-site/static/js/main.35abbbaa.js.map",
+    "787.86350eac.chunk.js.map": "/bubos-bank-site/static/js/787.86350eac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d4270bd.css",
-    "static/js/main.5feafed1.js"
+    "static/css/main.fe6b2b4d.css",
+    "static/js/main.35abbbaa.js"
   ]
 }
